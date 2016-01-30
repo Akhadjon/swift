@@ -143,3 +143,4 @@ Galloway
 [Roadfire Software blog](http://roadfiresoftware.com/blog/) - topics on Swift and parsing JSON  
 [Cocoa with Love](http://cocoawithlove.com) - blog by Matt Gallagher  
 [Cocoa is My Girlfriend](http://www.cimgf.com) - a passion for programming on iOS and OSX  
+[that thing in swift](https://thatthinginswift.com) - programming patterns in Swift  
