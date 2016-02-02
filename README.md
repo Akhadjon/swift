@@ -99,6 +99,7 @@ Galloway
 [Flinto for Mac](https://www.flinto.com/mac) - the prototyping tool designers have been waiting for  
 [ICNS](http://geticns.com) - simple app icon preview for iOS  
 [Silver Flows](http://silverflows.com) - lightweight mobile prototyping in Sketch  
+[AudioKit](http://audiokit.io) - powerful toolkit for audio synthesis, processing and analysis
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
