@@ -81,11 +81,11 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Swift Bootstrap](http://www.swiftbootstrap.com) - help speed up the process of developing iOS apps  
 [QuartzCode](http://www.quartzcodeapp.com) - turn animation natively into Objective-C or Swift code  
 [fastlane](https://fastlane.tools) - iOS automation for continuous delivery  
-[AudioKit](http://audiokit.io) - powerful toolkit for audio synthesis, processing and analysis
-[Travis CI](https://travis-ci.org) - test and deploy code with confidence, easily sync with GitHub projects
+[AudioKit](http://audiokit.io) - powerful toolkit for audio synthesis, processing and analysis  
+[Travis CI](https://travis-ci.org) - test and deploy code with confidence, easily sync with GitHub projects  
 [CircleCI](https://circleci.com) - continuous integration and deployment  
 [Jenkins](http://jenkins-ci.org) - an extensible open source continuous integration server  
-[Firebase](https://www.firebase.com) - store and sync data in realtime
+[Firebase](https://www.firebase.com) - store and sync data in realtime  
 [Layer](https://layer.com) - a full-stack building block for communications  
 [Deep Belief](https://github.com/jetpacapp/DeepBeliefSDK) - image recognition framework  
 [Shopify](https://developers.shopify.com) - mobile commerce tools for apps  
