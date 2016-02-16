@@ -1,8 +1,8 @@
 # Resources for Mac and iOS developers
 
-[:chart_with_upwards_trend: Analytics](#analytics) | [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:newspaper: Newsletters](#newsletters) | [:speaker: Podcasts](#podcasts)  | [:bird: Twitter](#twitter) | [:movie_camera: Video](#video) | [:globe_with_meridians: Websites](#websites)
+[:chart_with_upwards_trend: Analytics](#analytics) | [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:art: Design](#design) | [:newspaper: Newsletters](#newsletters) | [:speaker: Podcasts](#podcasts) | [:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:movie_camera: Video](#video) | [:globe_with_meridians: Websites](#websites)
 
-Feel free to submit your own links and categories via [Pull requests](https://github.com/knoxcocoa/dev-resources/pulls) or [Issues](https://github.com/knoxcocoa/dev-resources/issues).
+Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxcocoa/dev-resources/pulls) or [Issues](https://github.com/knoxcocoa/dev-resources/issues).
 
 ## Analytics
 [Crashlytics](https://try.crashlytics.com) - light weight crash reporting solution  
@@ -12,17 +12,10 @@ Feel free to submit your own links and categories via [Pull requests](https://gi
 [App Store Health Check](http://healthcheck.appbot.co/#/) - recommendations to improve app store description
 
 ## Books
-[iOS Programming: The Big Nerd Ranch 
-Guide](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051/) by Joe Conway, Aaron 
-Hillegass, Christian Keur  
-[Objective-C Programming: The Big Nerd Ranch 
-Guide](http://www.amazon.com/Objective-C-Programming-Ranch-Edition-Guides/dp/032194206X/) by Aaron 
-Hillegass, Mikey Ward  
-[Cocoa Programming for Mac OS X](http://www.amazon.com/Cocoa-Programming-Mac-OS-4th/dp/0321774086/) by 
-Aaron Hillegass, Adam Preble  
-[Effective Objective-C 2.0: Ways to Improve Your iOS and OS X 
-Programs](http://www.amazon.com/Effective-Objective-C-2-0-Specific-Development/dp/0321917014/) by Matt 
-Galloway  
+[iOS Programming: The Big Nerd Ranch Guide](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051/) by Joe Conway, Aaron Hillegass, Christian Keur  
+[Objective-C Programming: The Big Nerd Ranch Guide](http://www.amazon.com/Objective-C-Programming-Ranch-Edition-Guides/dp/032194206X/) by Aaron Hillegass, Mikey Ward  
+[Cocoa Programming for Mac OS X](http://www.amazon.com/Cocoa-Programming-Mac-OS-4th/dp/0321774086/) by Aaron Hillegass, Adam Preble  
+[Effective Objective-C 2.0: Ways to Improve Your iOS and OS X Programs](http://www.amazon.com/Effective-Objective-C-2-0-Specific-Development/dp/0321917014/) by Matt Galloway  
 [Design+Code: Learn iOS design and Xcode](https://designcode.io/) by Meng To   
 [Motion Design for iOS](http://designthencode.com) by Mike Rundle  
 [3D Graphics with Scene Kit](http://ronnqvi.st/book/) by David Ronnqvist  
@@ -55,6 +48,13 @@ Galloway
 [Udacity](https://www.udacity.com) - online courses and degree programs  
 [Codecademy](https://www.codecademy.com) - learn to code interactively
 
+## Design
+[Sketch](https://www.sketchapp.com) - professional digital design for the Mac  
+[Silver Flows](http://silverflows.com) - lightweight mobile prototyping in Sketch  
+[ICNS](http://geticns.com) - simple app icon preview for iOS  
+[Flinto for Mac](https://www.flinto.com/mac) - the prototyping tool designers have been waiting for  
+[Blocs](http://blocsapp.com) - build beautiful responsive websites without touching a line of code  
+
 ## Newsletters
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
 [Ray's Monthly Newsletter](http://www.raywenderlich.com) - published monthly by Ray Wenderlich  
@@ -77,29 +77,19 @@ Galloway
 [iOS Bytes](https://iosbytes.codeschool.com) - the latest news in the iOS community  
 [Developing Perspective](http://developingperspective.com) - podcast discussing news of note in iOS Development, Apple and the like
 
-## Software Development Kits (SDKs)
-[Layer](https://layer.com) - a full-stack building block for communications  
-[Parse](https://www.parse.com) - cloud database, push notifications, connected devices, and analytics  
-[Deep Belief](https://github.com/jetpacapp/DeepBeliefSDK) - image recognition framework  
-[Shopify](https://developers.shopify.com) - mobile commerce tools for apps
-
-## Application Programming Interface (API)
-[Firebase](https://www.firebase.com) - store and sync data in realtime
-
-## Continuous Integration (CI)
-[Jenkins](http://jenkins-ci.org) - an extensible open source continuous integration server  
-[CircleCI](https://circleci.com) - continuous integration and deployment  
-[Travis CI](https://travis-ci.org) - test and deploy code with confidence, easily sync with GitHub projects
-
-## Developer Tools
+## Tools
 [Swift Bootstrap](http://www.swiftbootstrap.com) - help speed up the process of developing iOS apps  
-[Blocs](http://blocsapp.com) - build beautiful responsive websites without touching a line of code  
 [QuartzCode](http://www.quartzcodeapp.com) - turn animation natively into Objective-C or Swift code  
 [fastlane](https://fastlane.tools) - iOS automation for continuous delivery  
-[Flinto for Mac](https://www.flinto.com/mac) - the prototyping tool designers have been waiting for  
-[ICNS](http://geticns.com) - simple app icon preview for iOS  
-[Silver Flows](http://silverflows.com) - lightweight mobile prototyping in Sketch  
 [AudioKit](http://audiokit.io) - powerful toolkit for audio synthesis, processing and analysis
+[Travis CI](https://travis-ci.org) - test and deploy code with confidence, easily sync with GitHub projects
+[CircleCI](https://circleci.com) - continuous integration and deployment  
+[Jenkins](http://jenkins-ci.org) - an extensible open source continuous integration server  
+[Firebase](https://www.firebase.com) - store and sync data in realtime
+[Layer](https://layer.com) - a full-stack building block for communications  
+[Deep Belief](https://github.com/jetpacapp/DeepBeliefSDK) - image recognition framework  
+[Shopify](https://developers.shopify.com) - mobile commerce tools for apps  
+[PlotKit](https://github.com/aleph7/PlotKit) - OS X plotting framework  
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
