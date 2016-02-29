@@ -29,11 +29,17 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [360iDev](http://360idev.com) - Denver, CO  
 [CodeStock](http://www.codestock.org) - Knoxville, TN  
 [CocoaLove](http://cocoalove.org) - Philadelphia, PA  
-[RWDevCon](http://www.rwdevcon.com) - the tutorial conference  
+[RWDevCon](http://www.rwdevcon.com) - the tutorial conference in Alexandria, VA  
 [Music City Code](http://www.musiccitycode.com) - tech conference in Nashville, TN  
 [Spark Conference](http://sparkconf.org) - tech conference in Charlotte, NC  
-[Swift Summit](https://www.swiftsummit.com) - the conference for Swift developers  
 [Indie DevStock](http://www.indiedevstock.com/2016/) - Nashville, TN  
+[iOSDevUK](http://iosdevuk.com) - Aberystwyth, UK  
+[NSNorth](http://nsnorth.ca) - Toronto, Canada  
+[NSSpain](http://nsspain.com) - in northern Spain  
+[#Pragma Conference](http://pragmaconference.com) - in Italy  
+[UIKonf](http://www.uikonf.com) - Berlin, Germany  
+[try! Swift](http://www.tryswiftconf.com/en) - Tokyo, Japan  
+[Swift Summit](https://www.swiftsummit.com) - in London and San Francisco  
 
 ## Courses
 [Big Nerd Ranch](http://www.bignerdranch.com/) - classes offered for iOS and Mac programming  
