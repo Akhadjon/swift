@@ -40,6 +40,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [UIKonf](http://www.uikonf.com) - Berlin, Germany  
 [try! Swift](http://www.tryswiftconf.com/en) - Tokyo, Japan  
 [Swift Summit](https://www.swiftsummit.com) - in London and San Francisco  
+[AltConf](http://www.altconf.com) - San Francisco, CA  
 
 ## Courses
 [Big Nerd Ranch](http://www.bignerdranch.com/) - classes offered for iOS and Mac programming  
