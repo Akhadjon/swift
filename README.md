@@ -143,3 +143,4 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Cocoa is My Girlfriend](http://www.cimgf.com) - a passion for programming on iOS and OSX  
 [that thing in swift](https://thatthinginswift.com) - programming patterns in Swift  
 [swifting.io](https://swifting.io) - Swiftly coding in Swift  
+[Grok Swift](https://grokswift.com) - a world view of Swift  
