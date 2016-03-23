@@ -21,7 +21,8 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [3D Graphics with Scene Kit](http://ronnqvi.st/book/) by David Ronnqvist  
 [Intermediate iOS 8 Programming with Swift Book](http://www.appcoda.com/intermediate-swift-programming-book/) by AppCoda  
 [iOS Apps with REST APIs: Building Web-Driven Apps in Swift](https://leanpub.com/iosappswithrest/c/launch) by Christina Moulton  
-[Parsing JSON in Swift](http://roadfiresoftware.com/parsing-json-in-swift/) by Josh Brown
+[Parsing JSON in Swift](http://roadfiresoftware.com/parsing-json-in-swift/) by Josh Brown  
+[Hacking with Swift](https://www.hackingwithswift.com) by Paul Hudson  
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
@@ -53,7 +54,8 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Udemy](https://www.udemy.com) - Swift and iOS online courses  
 [Stanford on iTunes U](https://itunes.stanford.edu/index.html) - iOS and Swift programming courses  
 [Udacity](https://www.udacity.com) - online courses and degree programs  
-[Codecademy](https://www.codecademy.com) - learn to code interactively
+[Codecademy](https://www.codecademy.com) - learn to code interactively  
+[Hacking with Swift](https://www.hackingwithswift.com) by Paul Hudson  
 
 ## Design
 [Sketch](https://www.sketchapp.com) - professional digital design for the Mac  
