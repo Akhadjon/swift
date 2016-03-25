@@ -1,6 +1,7 @@
 # Resources for Mac and iOS developers
 
-[:chart_with_upwards_trend: Analytics](#analytics) | [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:art: Design](#design) | [:newspaper: Newsletters](#newsletters) | [:speaker: Podcasts](#podcasts) | [:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:movie_camera: Video](#video) | [:globe_with_meridians: Websites](#websites)
+[:chart_with_upwards_trend: Analytics](#analytics) | [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:art: Design](#design) | [:newspaper: Newsletters](#newsletters)  
+[:speaker: Podcasts](#podcasts) | [:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:movie_camera: Video](#video) | [:globe_with_meridians: Websites](#websites)
 
 Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxcocoa/dev-resources/pulls) or [Issues](https://github.com/knoxcocoa/dev-resources/issues).
 
@@ -71,7 +72,9 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [iOS GameDev Weekly](http://iosgamedevweekly.com) - collection of iOS game development links every week  
 [This Week in Swift](http://swiftnews.curated.co) - weekly Swift news & resources via email or Safari Push Notification  
 [iOS Goodies](http://ios-goodies.com) - weekly articles and other iOS goodies  
-[iOS Tech Learning/Resources Weekly](https://darrellnicholas-com.curated.co) - weekly publication of relevant, interesting links
+[iOS Tech Learning/Resources Weekly](https://darrellnicholas-com.curated.co) - weekly publication of relevant, interesting links  
+[iOS Dev Tools](https://iosdev.tools) - weekly updates on iOS development tools, websites, apps, and back-end services  
+[Evolution or Extinction](http://evolutionorextinction.com) - weekly newsletter on tech trends and disruptions  
 
 ## Podcasts
 [Accidental Tech Podcast](http://atp.fm) - discussion of tech, Apple, programming, and loosely related matters  
@@ -146,3 +149,4 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [that thing in swift](https://thatthinginswift.com) - programming patterns in Swift  
 [swifting.io](https://swifting.io) - Swiftly coding in Swift  
 [Grok Swift](https://grokswift.com) - a world view of Swift  
+[Crunchy Development](http://alisoftware.github.io) - a blog about Apple’s Swift programming language  
