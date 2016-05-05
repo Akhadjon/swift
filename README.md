@@ -24,6 +24,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [iOS Apps with REST APIs: Building Web-Driven Apps in Swift](https://leanpub.com/iosappswithrest/c/launch) by Christina Moulton  
 [Parsing JSON in Swift](http://roadfiresoftware.com/parsing-json-in-swift/) by Josh Brown  
 [Hacking with Swift](https://www.hackingwithswift.com) by Paul Hudson  
+[Swift Documentation Markup](https://itunes.apple.com/us/book/swift-documentation-markup/id1049010423?mt=11) by Erica Sadun  
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
