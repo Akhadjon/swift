@@ -25,6 +25,10 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Parsing JSON in Swift](http://roadfiresoftware.com/parsing-json-in-swift/) by Josh Brown  
 [Hacking with Swift](https://www.hackingwithswift.com) by Paul Hudson  
 [Swift Documentation Markup](https://itunes.apple.com/us/book/swift-documentation-markup/id1049010423?mt=11) by Erica Sadun  
+[Core Image for Swift](https://itunes.apple.com/gb/book/core-image-for-swift/id1073029980) by Simon Gladman  
+[Swift Algorithms and Data Structures](http://shop.waynewbishop.com) by Wayne Bishop  
+[Playground Secrets and Power Tips](https://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034) by Erica Sadun  
+[Advanced Swift](https://www.objc.io/books/advanced-swift/) by Chris Eidhof and Airspeed Velocity
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
