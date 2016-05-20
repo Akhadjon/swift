@@ -107,6 +107,8 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Deep Belief](https://github.com/jetpacapp/DeepBeliefSDK) - image recognition framework  
 [Shopify](https://developers.shopify.com) - mobile commerce tools for apps  
 [PlotKit](https://github.com/aleph7/PlotKit) - OS X plotting framework  
+[Core Animator](http://www.coreanimator.com/#animatecode) - turn your animations into native code  
+[Paw](https://luckymarmot.com/paw) - the most advanced HTTP client for Mac  
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
