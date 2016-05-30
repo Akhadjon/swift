@@ -159,3 +159,5 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Crunchy Development](http://alisoftware.github.io) - a blog about Apple’s Swift programming language  
 [Uraimo](https://www.uraimo.com) - blog on iOS and Swift development  
 [HyperJeff Blog](http://blog.hyperjeff.net) - Swift and Metal code discussion  
+[Jesse Squires Blog](http://www.jessesquires.com) - iOS programming topics  
+[CALayer](http://calayer.com) - blog about Core Animation and other iOS graphics  
