@@ -62,6 +62,11 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Udacity](https://www.udacity.com) - online courses and degree programs  
 [Codecademy](https://www.codecademy.com) - learn to code interactively  
 [Hacking with Swift](https://www.hackingwithswift.com) by Paul Hudson  
+[freeCodeCamp](https://www.freecodecamp.com) - learn to code and help nonprofits  
+[Coursera](https://www.coursera.org) - online education courses  
+[Khan Academy](https://www.khanacademy.org) - open online courses and lessons  
+[edX](https://www.edx.org) - free online courses from around the world  
+[Udacity](https://www.udacity.com) - free online course and nanodegrees  
 
 ## Design
 [Sketch](https://www.sketchapp.com) - professional digital design for the Mac  
