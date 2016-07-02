@@ -115,6 +115,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [PlotKit](https://github.com/aleph7/PlotKit) - OS X plotting framework  
 [Core Animator](http://www.coreanimator.com/#animatecode) - turn your animations into native code  
 [Paw](https://luckymarmot.com/paw) - the most advanced HTTP client for Mac  
+[Ensembles](http://www.ensembles.io) - a Core Data sync framework  
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
