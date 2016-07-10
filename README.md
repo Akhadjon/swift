@@ -117,6 +117,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Paw](https://luckymarmot.com/paw) - the most advanced HTTP client for Mac  
 [Ensembles](http://www.ensembles.io) - a Core Data sync framework  
 [Quiver](http://happenapps.com/#quiver) - the programmer's notebook  
+[Dash](https://kapeli.com/dash) - API documentation and snippet manager  
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
@@ -129,6 +130,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 ## Video
 [AppleProgramming](https://www.youtube.com/user/AppleProgramming) - learn programming for Mac OS X  
 [Pomo.tv](http://www.pomo.tv) - a collection of videos about Mac, iOS, and Swift  
+[NSScreencast](http://nsscreencast.com/episodes) - screencasts for iOS development  
 
 ## Websites
 [Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
