@@ -131,6 +131,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [AppleProgramming](https://www.youtube.com/user/AppleProgramming) - learn programming for Mac OS X  
 [Pomo.tv](http://www.pomo.tv) - a collection of videos about Mac, iOS, and Swift  
 [NSScreencast](http://nsscreencast.com/episodes) - screencasts for iOS development  
+[Paul Hudson](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ) - make iOS apps using Swift with hands-on tutorial projects  
 
 ## Websites
 [Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
