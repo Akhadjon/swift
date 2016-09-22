@@ -28,7 +28,8 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Core Image for Swift](https://itunes.apple.com/gb/book/core-image-for-swift/id1073029980) by Simon Gladman  
 [Swift Algorithms and Data Structures](http://shop.waynewbishop.com) by Wayne Bishop  
 [Playground Secrets and Power Tips](https://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034) by Erica Sadun  
-[Advanced Swift](https://www.objc.io/books/advanced-swift/) by Chris Eidhof and Airspeed Velocity
+[Advanced Swift](https://www.objc.io/books/advanced-swift/) by Chris Eidhof and Airspeed Velocity  
+[Metal By Example](http://metalbyexample.com/the-book/) by Warren Moore
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
