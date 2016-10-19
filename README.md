@@ -76,6 +76,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [ICNS](http://geticns.com) - simple app icon preview for iOS  
 [Flinto for Mac](https://www.flinto.com/mac) - the prototyping tool designers have been waiting for  
 [Blocs](http://blocsapp.com) - build beautiful responsive websites without touching a line of code  
+[AnimateMate](http://animatemate.com) - an animation plugin for Sketch  
 
 ## Newsletters
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
