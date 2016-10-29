@@ -77,6 +77,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Flinto for Mac](https://www.flinto.com/mac) - the prototyping tool designers have been waiting for  
 [Blocs](http://blocsapp.com) - build beautiful responsive websites without touching a line of code  
 [AnimateMate](http://animatemate.com) - an animation plugin for Sketch  
+[Origami Studio](http://origami.design) - design prototypes for mobile devices  
 
 ## Newsletters
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
