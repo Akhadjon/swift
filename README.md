@@ -1,7 +1,7 @@
 # Resources for Mac and iOS developers
 
 [:chart_with_upwards_trend: Analytics](#analytics) | [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:art: Design](#design) | [:newspaper: Newsletters](#newsletters)  
-[:speaker: Podcasts](#podcasts) | [:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:movie_camera: Video](#video) | [:globe_with_meridians: Websites](#websites)
+[:speaker: Podcasts](#podcasts) | [:computer: Server](#server) | [:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:movie_camera: Video](#video) | [:globe_with_meridians: Websites](#websites)
 
 Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxcocoa/dev-resources/pulls) or [Issues](https://github.com/knoxcocoa/dev-resources/issues).
 
@@ -102,6 +102,11 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [The iOS Show](http://www.wehavecommunicators.com) - iOS news, tips, and opinions  
 [iOS Bytes](https://iosbytes.codeschool.com) - the latest news in the iOS community  
 [Developing Perspective](http://developingperspective.com) - podcast discussing news of note in iOS Development, Apple and the like
+
+## Server
+[Perfect](http://perfect.org) - web server and toolkit using the Swift programming language  
+[Kitura](http://www.kitura.io) - web framework for building Swift applications  
+[Vapor](https://vapor.codes) - web framework and server for Swift  
 
 ## Tools
 [Swift Bootstrap](http://www.swiftbootstrap.com) - help speed up the process of developing iOS apps  
