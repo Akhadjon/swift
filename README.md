@@ -126,6 +126,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Ensembles](http://www.ensembles.io) - a Core Data sync framework  
 [Quiver](http://happenapps.com/#quiver) - the programmer's notebook  
 [Dash](https://kapeli.com/dash) - API documentation and snippet manager  
+[iTunes Link Maker](https://linkmaker.itunes.apple.com) - create links to Apple Music, App Store, Mac App Store and others  
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
