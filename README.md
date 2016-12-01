@@ -81,9 +81,10 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Origami Studio](http://origami.design) - design prototypes for mobile devices  
 
 ## Metal
-[The Metal Framework](http://metalkit.org) - articles about MetalKit  
-[Metal By Example](http://metalbyexample.com) - High performance graphics and compute programming for iOS  
+[The Metal Framework](http://metalkit.org) - articles and tutorials for MetalKit  
+[Metal By Example](http://metalbyexample.com) - high performance graphics and compute programming for iOS  
 [HyperJeff Blog](http://blog.hyperjeff.net) - Swift and Metal code discussion  
+[FlexMonkey](http://flexmonkey.blogspot.com) - creative coding in Swift  
 
 ## Newsletters
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
@@ -158,7 +159,6 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Natasha The Robot](http://natashatherobot.com) - Swift tutorials and examples  
 [iAchieved.it](http://dev.iachieved.it/iachievedit/) - Software development tips and tricks  
 [Command Shift](http://commandshift.co.uk) - iOS development and other nonsense  
-[FlexMonkey](http://flexmonkey.blogspot.com) - Swift and ActionScript tinkering  
 [iOScreator](http://www.ioscreator.com) - posts about Objective-C, Swift, Cocoa and developing with Xcode  
 [Coding Explorer Blog](http://www.codingexplorer.com) - learn how to program for iOS in Swift  
 [Functional Gibberish](http://www.functionalgibberish.com) - programming in Swift  
