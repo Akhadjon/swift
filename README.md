@@ -1,7 +1,8 @@
 # Resources for Mac and iOS developers
 
-[:chart_with_upwards_trend: Analytics](#analytics) | [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:art: Design](#design) | [:newspaper: Newsletters](#newsletters)  
-[:speaker: Podcasts](#podcasts) | [:computer: Server](#server) | [:wrench: Tools](#tools) | [:bird: Twitter](#twitter) | [:movie_camera: Video](#video) | [:globe_with_meridians: Websites](#websites)
+[:chart_with_upwards_trend: Analytics](#analytics) | [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:art: Design](#design) | [:wrench: Metal](#metal)
+
+[:newspaper: Newsletters](#newsletters) | [:speaker: Podcasts](#podcasts) | [:computer: Server](#server) | [:triangular_ruler: Tools](#tools) | [:bird: Twitter](#twitter) | [:movie_camera: Video](#video) | [:globe_with_meridians: Websites](#websites)
 
 Feel free to submit your own links and categories via [Pull Requests](https://github.com/knoxcocoa/dev-resources/pulls) or [Issues](https://github.com/knoxcocoa/dev-resources/issues).
 
@@ -79,6 +80,11 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [AnimateMate](http://animatemate.com) - an animation plugin for Sketch  
 [Origami Studio](http://origami.design) - design prototypes for mobile devices  
 
+## Metal
+[The Metal Framework](http://metalkit.org) - articles about MetalKit  
+[Metal By Example](http://metalbyexample.com) - High performance graphics and compute programming for iOS  
+[HyperJeff Blog](http://blog.hyperjeff.net) - Swift and Metal code discussion  
+
 ## Newsletters
 [iOS Dev Weekly](http://iosdevweekly.com) - curated by Dave Verwer and published every Friday  
 [Ray's Monthly Newsletter](http://www.raywenderlich.com) - published monthly by Ray Wenderlich  
@@ -151,7 +157,6 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Think & Build](http://www.thinkandbuild.it) - Tutorials about OS X, iOS and web development  
 [Natasha The Robot](http://natashatherobot.com) - Swift tutorials and examples  
 [iAchieved.it](http://dev.iachieved.it/iachievedit/) - Software development tips and tricks  
-[Metal By Example](http://metalbyexample.com) - High performance graphics and compute programming for iOS  
 [Command Shift](http://commandshift.co.uk) - iOS development and other nonsense  
 [FlexMonkey](http://flexmonkey.blogspot.com) - Swift and ActionScript tinkering  
 [iOScreator](http://www.ioscreator.com) - posts about Objective-C, Swift, Cocoa and developing with Xcode  
@@ -179,6 +184,5 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Grok Swift](https://grokswift.com) - a world view of Swift  
 [Crunchy Development](http://alisoftware.github.io) - a blog about Apple’s Swift programming language  
 [Uraimo](https://www.uraimo.com) - blog on iOS and Swift development  
-[HyperJeff Blog](http://blog.hyperjeff.net) - Swift and Metal code discussion  
 [Jesse Squires Blog](http://www.jessesquires.com) - iOS programming topics  
 [CALayer](http://calayer.com) - blog about Core Animation and other iOS graphics  
