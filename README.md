@@ -96,6 +96,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [iOS Tech Learning/Resources Weekly](https://darrellnicholas-com.curated.co) - weekly publication of relevant, interesting links  
 [iOS Dev Tools](https://iosdev.tools) - weekly updates on iOS development tools, websites, apps, and back-end services  
 [Evolution or Extinction](http://evolutionorextinction.com) - weekly newsletter on tech trends and disruptions  
+[Server-Side Swift](https://www.serverswift.tech) - links related to server-side Swift and cross-platform developer tools   
 
 ## Podcasts
 [Accidental Tech Podcast](http://atp.fm) - discussion of tech, Apple, programming, and loosely related matters  
