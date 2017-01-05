@@ -189,3 +189,4 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Uraimo](https://www.uraimo.com) - blog on iOS and Swift development  
 [Jesse Squires Blog](http://www.jessesquires.com) - iOS programming topics  
 [CALayer](http://calayer.com) - blog about Core Animation and other iOS graphics  
+[Swifting](https://swifting.io) - blog about interesting topics discovered in Swift  
