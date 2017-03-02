@@ -140,6 +140,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Veertu](https://veertu.com) - native virtualization for macOS  
 [AppWage](http://www.appwage.com) - simple, powerful macOS sales manager for iOS and macOS app stores  
 [Json4Swift](http://www.json4swift.com) - generate Swift models from JSON data  
+[Reveal](https://revealapp.com) - runtime view debugging for iOS and tvOS  
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
