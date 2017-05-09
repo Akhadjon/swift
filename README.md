@@ -196,3 +196,4 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [CALayer](http://calayer.com) - blog about Core Animation and other iOS graphics  
 [Swifting](https://swifting.io) - blog about interesting topics discovered in Swift  
 [iOS Dev Tools](https://iosdev.tools) - massive list of development tools, services, backends, etc.  
+[Pragmatic Swift](http://pragmaticswift.com) - a bimonthly publication about Swift  
