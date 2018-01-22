@@ -1,4 +1,4 @@
-# Resources for Mac and iOS developers
+https://github.com/knoxcocoa/swift-resources.git# Resources for Mac and iOS developers
 
 [:chart_with_upwards_trend: Analytics](#analytics) | [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:art: Design](#design) | [:wrench: Metal](#metal)
 
@@ -145,6 +145,7 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Reveal](https://revealapp.com) - runtime view debugging for iOS and tvOS  
 [Atomic](https://atomic.io) - create amazing prototypes in the cloud  
 [Charles](https://www.charlesproxy.com) - web debugging proxy application  
+[GitUp](http://gitup.co) - the Git interface you've been missing all your life  
 
 ## Twitter
 [Tim Cook](https://twitter.com/tim_cook) - CEO Apple, Fan of Auburn football and Duke basketball  
