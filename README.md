@@ -1,4 +1,4 @@
-https://github.com/knoxcocoa/swift-resources.git# Resources for Mac and iOS developers
+# Resources for Mac and iOS developers
 
 [:chart_with_upwards_trend: Analytics](#analytics) | [:books: Books](#books) | [:office: Conferences](#conferences) | [:notebook: Courses](#courses) | [:art: Design](#design) | [:wrench: Metal](#metal)
 
@@ -160,6 +160,9 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Pomo.tv](http://www.pomo.tv) - a collection of videos about Mac, iOS, and Swift  
 [NSScreencast](http://nsscreencast.com/episodes) - screencasts for iOS development  
 [Paul Hudson](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ) - make iOS apps using Swift with hands-on tutorial projects  
+[Ray Wenderlich Videos](https://videos.raywenderlich.com) - tutorials in video form  
+[Point-Free](https://www.pointfree.co) - a video series on functional programming and the Swift programming language  
+[Swift Talk](https://talk.objc.io) - a weekly video series on Swift programming  
 
 ## Websites
 [Ray Wenderlich](http://www.raywenderlich.com) - Tutorials for iPhone / iOS developers and gamers  
