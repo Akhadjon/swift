@@ -31,7 +31,8 @@ Feel free to submit your own links and categories via [Pull Requests](https://gi
 [Playground Secrets and Power Tips](https://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034) by Erica Sadun  
 [Swift Style: An Opinionated Guide to an Opinionated Language](https://pragprog.com/book/esswift/swift-style) by Erica Sadun  
 [Advanced Swift](https://www.objc.io/books/advanced-swift/) by Chris Eidhof and Airspeed Velocity  
-[Metal By Example](http://metalbyexample.com/the-book/) by Warren Moore
+[Metal By Example](http://metalbyexample.com/the-book/) by Warren Moore  
+[Flight School](https://gumroad.com/flightschool) by Mattt
 
 ## Conferences
 [Apple Worldwide Developers Conference (WWDC)](https://developer.apple.com/wwdc/) - San Francisco, CA  
